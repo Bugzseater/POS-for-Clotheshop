@@ -1,1 +1,3 @@
-![Sample Image](https://drive.google.com/file/d/1Zlb-sYYsTVctFmpfS8yFkBXO_Z86V0nl/view?usp=drive_link)
+This is Note Taking app
+
+![note taking](https://github.com/Bugzseater/Note-Taking/assets/128884935/21963234-95e5-46ef-8ad1-1446f0dabc4c)
